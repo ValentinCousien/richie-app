@@ -1,0 +1,813 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%" : {
+
+    },
+    "%@ - %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ - %2$@"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "• %@" : {
+
+    },
+    "account.description.lifeInsurance" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Life insurance investment with tax advantages"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assurance vie avec avantages fiscaux"
+          }
+        }
+      }
+    },
+    "account.description.pea" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan d'Épargne en Actions - Tax-advantaged account for European stocks"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan d'Épargne en Actions - Compte avec avantages fiscaux pour les actions européennes"
+          }
+        }
+      }
+    },
+    "account.description.peaPme" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PEA for small and medium-sized enterprises"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PEA pour les petites et moyennes entreprises"
+          }
+        }
+      }
+    },
+    "account.description.pel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan d'Épargne Logement - Housing savings plan"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan d'Épargne Logement - Plan d'épargne pour le logement"
+          }
+        }
+      }
+    },
+    "account.description.perp" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan d'Épargne Retraite Populaire - Retirement savings plan"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan d'Épargne Retraite Populaire - Plan d'épargne retraite"
+          }
+        }
+      }
+    },
+    "account.description.standard" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard investment account with no specific tax advantages"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compte d'investissement standard sans avantages fiscaux spécifiques"
+          }
+        }
+      }
+    },
+    "account.type.lifeInsurance" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Life Insurance"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assurance Vie"
+          }
+        }
+      }
+    },
+    "account.type.pea" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PEA"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PEA"
+          }
+        }
+      }
+    },
+    "account.type.peaPme" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PEA-PME"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PEA-PME"
+          }
+        }
+      }
+    },
+    "account.type.pel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PEL"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PEL"
+          }
+        }
+      }
+    },
+    "account.type.perp" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PERP"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PERP"
+          }
+        }
+      }
+    },
+    "account.type.standard" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard Account"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compte Standard"
+          }
+        }
+      }
+    },
+    "action.add" : {
+
+    },
+    "action.add.investment" : {
+
+    },
+    "action.cancel" : {
+
+    },
+    "action.delete" : {
+
+    },
+    "action.edit" : {
+
+    },
+    "action.save" : {
+
+    },
+    "allowed.investments.header" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allowed Investments"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investissements Autorisés"
+          }
+        }
+      }
+    },
+    "app.title" : {
+
+    },
+    "chart.high" : {
+
+    },
+    "chart.high.estimate" : {
+
+    },
+    "chart.low" : {
+
+    },
+    "chart.low.estimate" : {
+
+    },
+    "chart.month" : {
+
+    },
+    "contribution.frequency.annually" : {
+
+    },
+    "contribution.frequency.monthly" : {
+
+    },
+    "contribution.frequency.quarterly" : {
+
+    },
+    "field.account.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account Name"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nom du Compte"
+          }
+        }
+      }
+    },
+    "field.account.type" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account Type"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type de Compte"
+          }
+        }
+      }
+    },
+    "field.amount" : {
+
+    },
+    "field.contribution.amount" : {
+
+    },
+    "field.duration.years" : {
+
+    },
+    "field.duration.years %lld" : {
+
+    },
+    "field.frequency" : {
+
+    },
+    "field.high.estimate" : {
+
+    },
+    "field.include.contributions" : {
+
+    },
+    "field.initial.amount" : {
+
+    },
+    "field.investment.name" : {
+
+    },
+    "field.investment.type" : {
+
+    },
+    "field.low.estimate" : {
+
+    },
+    "field.none.selected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None Selected"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucun Sélectionné"
+          }
+        }
+      }
+    },
+    "field.rate" : {
+
+    },
+    "field.select.account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Account"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner un Compte"
+          }
+        }
+      }
+    },
+    "field.start.date" : {
+
+    },
+    "field.use.account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Investment Account"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utiliser un Compte d'Investissement"
+          }
+        }
+      }
+    },
+    "investment.type.bonds" : {
+
+    },
+    "investment.type.custom" : {
+
+    },
+    "investment.type.lifeInsurance" : {
+
+    },
+    "investment.type.realEstate" : {
+
+    },
+    "investment.type.savings" : {
+
+    },
+    "investment.type.scpi" : {
+
+    },
+    "investment.type.stocks" : {
+
+    },
+    "label.duration" : {
+
+    },
+    "label.high.estimate" : {
+
+    },
+    "label.high.gain" : {
+
+    },
+    "label.initial.amount" : {
+
+    },
+    "label.investment.type" : {
+
+    },
+    "label.low.estimate" : {
+
+    },
+    "label.low.gain" : {
+
+    },
+    "label.regular.contribution" : {
+
+    },
+    "label.total.value" : {
+
+    },
+    "message.no.investments" : {
+
+    },
+    "rule.age.limit.min.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimum age of %d years"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Âge minimum de %d ans"
+          }
+        }
+      }
+    },
+    "rule.age.limit.min.error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimum age requirement is %d years"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'âge minimum requis est de %d ans"
+          }
+        }
+      }
+    },
+    "rule.age.limit.min.error %lld" : {
+
+    },
+    "rule.age.limit.range.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Age between %d and %d years"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Âge entre %d et %d ans"
+          }
+        }
+      }
+    },
+    "rule.age.limit.range.description %lld %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "rule.age.limit.range.description %1$lld %2$lld"
+          }
+        }
+      }
+    },
+    "rule.age.limit.range.error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Age must be between %d and %d years"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'âge doit être entre %d et %d ans"
+          }
+        }
+      }
+    },
+    "rule.age.limit.range.error %lld %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "rule.age.limit.range.error %1$lld %2$lld"
+          }
+        }
+      }
+    },
+    "rule.deposit.limit.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maximum deposit of €%d"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dépôt maximum de %d€"
+          }
+        }
+      }
+    },
+    "rule.deposit.limit.description %lld" : {
+
+    },
+    "rule.deposit.limit.error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deposit exceeds the maximum limit of €%d"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le dépôt dépasse la limite maximale de %d€"
+          }
+        }
+      }
+    },
+    "rule.deposit.limit.error %lld" : {
+
+    },
+    "rule.geographical.restriction.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Available in: %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disponible en: %@"
+          }
+        }
+      }
+    },
+    "rule.geographical.restriction.description %@" : {
+
+    },
+    "rule.geographical.restriction.error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only available in: %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uniquement disponible en: %@"
+          }
+        }
+      }
+    },
+    "rule.geographical.restriction.error %@" : {
+
+    },
+    "rule.investment.type.error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ investments are not allowed in %@ accounts"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les investissements %@ ne sont pas autorisés dans les comptes %@"
+          }
+        }
+      }
+    },
+    "rule.investment.type.error %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "rule.investment.type.error %1$@ %2$@"
+          }
+        }
+      }
+    },
+    "rules.header" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account Rules"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Règles du Compte"
+          }
+        }
+      }
+    },
+    "section.account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compte"
+          }
+        }
+      }
+    },
+    "section.account.rules" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account Rules"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Règles du Compte"
+          }
+        }
+      }
+    },
+    "section.basic.information" : {
+
+    },
+    "section.final.projections" : {
+
+    },
+    "section.growth.projection" : {
+
+    },
+    "section.growth.rates" : {
+
+    },
+    "section.investments" : {
+
+    },
+    "section.portfolio.overview" : {
+
+    },
+    "section.regular.contributions" : {
+
+    },
+    "section.timeframe" : {
+
+    },
+    "section.validation.errors" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Validation Errors"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreurs de Validation"
+          }
+        }
+      }
+    },
+    "title.account.details" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account Details"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Détails du Compte"
+          }
+        }
+      }
+    },
+    "title.add.account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Account"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter un Compte"
+          }
+        }
+      }
+    },
+    "title.add.investment" : {
+
+    },
+    "title.edit.investment" : {
+
+    },
+    "title.select.account.type" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Account Type"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner le Type de Compte"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
